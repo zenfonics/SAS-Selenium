@@ -7,5 +7,5 @@ public class HomePage extends SeleniumBase{
 		click(locateElement("class","decorativeSubmit"));
 		return new HomePage();
 	}
-
+/* added commnets for checking from GIT, whther this is updated*/
 }
